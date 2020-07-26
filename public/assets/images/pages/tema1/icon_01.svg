@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="121" height="121" viewBox="0 0 121 121">
+  <g id="Grupo_13694" data-name="Grupo 13694" transform="translate(-297 -4423)">
+    <circle id="Elipse_497" data-name="Elipse 497" cx="60.5" cy="60.5" r="60.5" transform="translate(297 4423)" fill="#abb7be"/>
+    <path id="Trazado_1178" data-name="Trazado 1178" d="M53.993,0A53.993,53.993,0,1,1,0,53.993,53.993,53.993,0,0,1,53.993,0Z" transform="translate(304 4430)" fill="#fff"/>
+    <g id="Grupo_13645" data-name="Grupo 13645" transform="translate(255.024 4471.212)">
+      <circle id="Elipse_634" data-name="Elipse 634" cx="10" cy="10" r="10" transform="translate(91.976 28.788)"/>
+      <circle id="Elipse_635" data-name="Elipse 635" cx="7.5" cy="7.5" r="7.5" transform="translate(93.976 30.788)" fill="#0f9af0"/>
+      <path id="Trazado_13243" data-name="Trazado 13243" d="M91.994,30.223V13.108L99.93,6.361H80V1.988a21.988,21.988,0,1,1,36.221,16.759l-4.238,3.6v7.872ZM101.988-.011a2,2,0,0,0-2,2V6.311l3.286-2.794a2,2,0,0,0-1.288-3.527Z"/>
+      <g id="Grupo_13637" data-name="Grupo 13637" transform="translate(82.499 -17.501)">
+        <path id="Trazado_13244" data-name="Trazado 13244" d="M229.748,392,226,399.5l3.748,7.5a7.5,7.5,0,1,0,0-14.992Z" transform="translate(-210.259 -343.026)" fill="#0a77e8"/>
+        <path id="Trazado_13245" data-name="Trazado 13245" d="M196,399.5a7.5,7.5,0,0,0,7.5,7.5V392A7.5,7.5,0,0,0,196,399.5Z" transform="translate(-184.006 -343.026)" fill="#0f9af0"/>
+        <path id="Trazado_13246" data-name="Trazado 13246" d="M203.5,0,196,7.5l7.5,7.5a4.5,4.5,0,0,1,2.906,7.93L203.5,25.392l-5,9.917,5,9.917h7.5V38.7l5.119-4.352A19.489,19.489,0,0,0,203.5,0Z" transform="translate(-184.006)" fill="#0a77e8"/>
+        <g id="Grupo_13636" data-name="Grupo 13636" transform="translate(0)">
+          <path id="Trazado_13247" data-name="Trazado 13247" d="M196,209.619v13.46h7.5V203.246Z" transform="translate(-184.006 -177.854)" fill="#0f9af0"/>
+          <path id="Trazado_13248" data-name="Trazado 13248" d="M100,19.489v1.874h14.992V19.489a4.5,4.5,0,0,1,4.5-4.5V0A19.511,19.511,0,0,0,100,19.489Z" transform="translate(-100)" fill="#0f9af0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
