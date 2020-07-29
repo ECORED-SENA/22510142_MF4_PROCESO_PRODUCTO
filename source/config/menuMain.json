@@ -9,7 +9,7 @@
     "id": 1,
     "icon": "fa fa-file-text-o",
     "slug": "portafolio_producto",
-    "title": "1. Portafolio de Producto",
+    "title": "1. Portafolio de producto",
     "breadcrumb": ["Inicio","Introducción"],
     "path": "pages/tema-1.html",   
     "submenu": [
